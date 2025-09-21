@@ -1,0 +1,21 @@
+{
+    "LightBurnSoftware": {
+        "guid": "zhkY2ZmOTd",
+        "manifest": [
+            {
+                "action": "import-device",
+                "filename": "ODYwNmJhLT.lbdev",
+                "group": "Devices",
+                "icon": "protocol:Custom GCode",
+                "link-filename": null,
+                "name": "Carvera Initial Settings",
+                "size": 5124,
+                "source": "ODYwNmJhLT.lbdev"
+            }
+        ],
+        "version": {
+            "Bundle": "1.0",
+            "MillMage": "0.8.00"
+        }
+    }
+}
